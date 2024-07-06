@@ -9,6 +9,9 @@ Repetition Counting: Counts the number of bicep curls performed.
 Real-Time Feedback: Displays results on an index.html page.
 # Technology Stack
 Python: For backend processing and logic.
+
 OpenCV: For computer vision tasks.
+
 HTML: For the frontend interface.
+
 Internal Webcam: For capturing live video feed.
