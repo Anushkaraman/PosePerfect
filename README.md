@@ -15,3 +15,16 @@ OpenCV: For computer vision tasks.
 HTML: For the frontend interface.
 
 Internal Webcam: For capturing live video feed.
+# Setup and Installation
+1.Install Visual Studio Code:
+Download and install VS Code from the official website.
+
+2.Install Python:
+Download and install Python from the official website.
+
+3.Run the application: 
+python webcam_server.py
+
+
+4.Open your browser and go to
+http://localhost:5000
