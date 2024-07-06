@@ -17,10 +17,10 @@ HTML: For the frontend interface.
 Internal Webcam: For capturing live video feed.
 # Setup and Installation
 1.Install Visual Studio Code:
-Download and install VS Code from the official website.
+Download and install VS Code from https://code.visualstudio.com/download .
 
 2.Install Python:
-Download and install Python from the official website.
+Download and install Python from https://www.python.org/downloads/ .
 
 3.Run the application: 
 python webcam_server.py
