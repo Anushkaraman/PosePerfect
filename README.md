@@ -24,7 +24,7 @@ Download and install Python from https://www.python.org/downloads/ .
 
 3.Run the application:
 
-python webcam_server.py
+>>python webcam_server.py
 
 
 4.Open your browser and go to
